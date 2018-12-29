@@ -1,0 +1,21 @@
+{
+  "name": "driven",
+  "version": "0.1.0",
+  "description": "Minimal tooling for test driven development",
+  "main": "driven.mjs",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fwilkerson/driven.git"
+  },
+  "keywords": [],
+  "author": "Frank A. Wilkerson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fwilkerson/driven/issues"
+  },
+  "homepage": "https://github.com/fwilkerson/driven#readme",
+  "devDependencies": {
+    "kleur": "^3.0.1"
+  }
+}
