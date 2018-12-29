@@ -3,7 +3,9 @@
   "version": "0.1.0",
   "description": "Minimal tooling for test driven development",
   "main": "driven.mjs",
-  "scripts": {},
+  "scripts": {
+    "test": "node --experimental-modules test"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fwilkerson/driven.git"
